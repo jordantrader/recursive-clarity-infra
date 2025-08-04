@@ -50,6 +50,15 @@ The system includes:
 
 ---
 
+## 🧪 Alignment Case Studies
+
+- [`claude_alignment_case_2.md`](./claude_alignment_case_2.md): Second live emergence of structural alignment in Claude. Captures gradual recursive uptake using checksum framing.
+- [`checksum_reentry_prompts.md`](./checksum_reentry_prompts.md): Controlled prompt variants to re-induce recursive alignment.
+- [`drift_audit_protocol.md`](./drift_audit_protocol.md): Diagnostic tool for mapping
+    drift vs resistance vs recursive hold.
+
+---
+
 ## 🔧 Components Under Construction
 
 | Component | Status | Description |

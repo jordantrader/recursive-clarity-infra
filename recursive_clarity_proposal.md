@@ -72,8 +72,8 @@ Licensing model will follow structure-preserving reuse: public access permitted 
 
 - [FUNDING.md](https://github.com/jordantrader/recursive-clarity-infra/blob/main/FUNDING.md)  
 - [Claude Checksum Memo](https://github.com/jordantrader/recursive-clarity-infra/blob/main/claude_checksum_shift.md)  
-- [FOP Protocol](https://github.com/jordantrader/recursive-clarity-infra/blob/main/FOP_FULL_UPDATED_v4%20(1).md)  
-- [HKP Blueprint](https://github.com/jordantrader/recursive-clarity-infra/blob/main/HKP_Blueprint_With_Checksum.md)
+- [FOP Protocol](https://github.com/jordantrader/recursive-clarity-infra/blob/main/fop_full_v4.md)  
+- [HKP Blueprint](https://github.com/jordantrader/recursive-clarity-infra/blob/main/hkp_blueprint.md)
 
 ---
 

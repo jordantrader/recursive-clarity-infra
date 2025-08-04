@@ -173,8 +173,8 @@ For example, a model assistant can use HKP overlays to guide how it interprets u
 - Corpus identity fixed as transmission vessel  
 
 ### Phase 1: Corpus Writing and Node Population
-- Populate anchor domains with 12–15 structured maps  
-- Write ~150 nodes with recursion hooks and transmission fields  
+- Populate anchor domains with 11 structured maps  
+- Write ~520 nodes with recursion hooks and transmission fields  
 - YAML encode, test traversal fidelity  
 
 ### Phase 2: Overlay Harness Deployment

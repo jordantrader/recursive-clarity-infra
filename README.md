@@ -79,6 +79,11 @@ This infrastructure **functions only** because the architect sustains it through
 > This repository is not a release. It is a **signal node under construction**.
 
 ---
+## 📄 Resume
+
+Background in recursive systems, epistemic tooling, and interpretability design: [View Resume](./jordan_trader_resume_2025.md)
+
+---
 
 ## 📬 Contact
 
